@@ -1,2 +1,2 @@
-# C-learning
-my learning of C
+# C-test
+my test of C
